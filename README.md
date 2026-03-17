@@ -1,9 +1,7 @@
-<h1 align="center">
-  👋 Hola, soy Luis Lozada
-</h1>
+<h1 align="center">👋 Hola, soy Luis Lozada</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=💻+Desarrollador+de+Software+en+formación;🚀+Backend+y+Tecnologías+Web;🤖+IA+Generativa+y+Robótica;🏆+Participante+en+Hackathons+SENA" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Desarrollador+de+Software+en+formación;🚀+Backend+y+Tecnologías+Web;🤖+IA+Generativa+y+Robótica;🏆+Participante+en+Hackathons+SENA" />
 </p>
 
 ---
@@ -13,7 +11,7 @@
 🎓 Estudiante de Análisis y Desarrollo de Software  
 💻 Técnico en Sistemas  
 🤖 Formación en Ingeniería con IA Generativa  
-🧠 Interés en desarrollo backend y lógica de programación  
+🧠 Enfocado en desarrollo backend y lógica de programación  
 📍 Neiva, Colombia  
 
 ---
@@ -23,7 +21,7 @@
 - 🤖 Curso especial en Robótica Recreativa  
 - 🏆 Participante en la 1ra Hackathon SENA-CPE  
 - 🏆 Participante en la 2da Hackathon SENA-CPE  
-- 🚀 Desarrollo de proyectos académicos en software  
+- 🚀 Desarrollo de proyectos académicos y tecnológicos  
 
 ---
 
@@ -36,6 +34,30 @@
 ---
 
 ## 🚀 Proyectos destacados
+
+### 🌿 AirSense CEFA
+💡 Sistema de monitoreo de calidad del aire
+
+📌 Descripción:  
+Desarrollo de un sistema automatizado para monitorear y analizar los niveles de CO₂ y la calidad del aire en diferentes espacios del Centro de Formación Agroindustrial La Angostura (CEFA), mediante sensores ambientales conectados a una plataforma desarrollada en Python.
+
+⚙️ Tecnologías:
+- Python  
+- Sensores ambientales  
+- Procesamiento de datos  
+
+🚀 Funcionalidades:
+- 📊 Monitoreo en tiempo real de CO₂  
+- 🌱 Análisis de calidad del aire  
+- 📡 Integración con sensores físicos  
+- 📈 Visualización de datos  
+
+🎯 Objetivo:  
+Mejorar las condiciones ambientales y apoyar la toma de decisiones mediante tecnología.
+
+---
+
+### 💻 Otros proyectos
 
 - 🔹 Sistema de ventas en Java  
 - 🔹 Aplicaciones en Python  
