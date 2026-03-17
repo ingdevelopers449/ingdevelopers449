@@ -21,7 +21,7 @@
 - 🤖 Curso especial en Robótica Recreativa  
 - 🏆 Participante en la 1ra Hackathon SENA-CPE - 2020
 - 🏆 Participante en la 2da Hackathon SENA-CPE - 2020
-- 🏆 V encuentro de semilleros de investigación y experiencias significativas - 2020
+- 🏆 V Encuentro de semilleros de investigación y experiencias significativas - 2020
 - 🚀 Desarrollo de proyectos académicos y tecnológicos  
 
 ---
