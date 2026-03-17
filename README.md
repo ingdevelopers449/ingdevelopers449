@@ -3,18 +3,27 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=💻+Desarrollador+Backend+en+formación;🚀+Apasionado+por+la+programación;🤖+Aprendiendo+IA+Generativa" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=💻+Desarrollador+de+Software+en+formación;🚀+Backend+y+Tecnologías+Web;🤖+IA+Generativa+y+Robótica;🏆+Participante+en+Hackathons+SENA" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Técnico en Sistemas  
-📚 Estudiante de Tecnología en Sistemas  
-🤖 Formación en Ingeniería en Sistemas con IA Generativa  
-💡 Interés en desarrollo backend y lógica de programación  
+🎓 Estudiante de Análisis y Desarrollo de Software  
+💻 Técnico en Sistemas  
+🤖 Formación en Ingeniería con IA Generativa  
+🧠 Interés en desarrollo backend y lógica de programación  
 📍 Neiva, Colombia  
+
+---
+
+## 🏆 Experiencia y logros
+
+- 🤖 Curso especial en Robótica Recreativa  
+- 🏆 Participante en la 1ra Hackathon SENA-CPE  
+- 🏆 Participante en la 2da Hackathon SENA-CPE  
+- 🚀 Desarrollo de proyectos académicos en software  
 
 ---
 
