@@ -85,8 +85,9 @@ Mejorar las condiciones ambientales y apoyar la toma de decisiones mediante tecn
 
 ## 📫 Contacto
 
-📍 Neiva, Colombia  
-
+📍 Neiva, Colombia
+📞 317 1444 624
+✉️ pipelozada994@gmail
 ---
 
 <p align="center">
