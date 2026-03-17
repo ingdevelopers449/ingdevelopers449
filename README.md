@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos en Formación
 
 ### 🌿 AirSense CEFA
 💡 Sistema de monitoreo de calidad del aire
