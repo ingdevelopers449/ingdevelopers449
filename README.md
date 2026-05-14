@@ -1,102 +1,99 @@
-# Perfil Profesional de Luis Lozada
+<h1 align="center">👋 Hola, soy Luis Lozada</h1>
 
-## Introducción
-
-Bienvenido a mi perfil profesional en GitHub. Soy un desarrollador de software en formación, especializado en backend, tecnologías web y aplicaciones de IA generativa. Mi enfoque está en crear soluciones eficientes y escalables para problemas tecnológicos.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Desarrollador+de+Software+en+formación;🚀+Backend+y+Tecnologías+Web;🤖+IA+Generativa+y+Robótica;🏆+Participante+en+Hackathons+SENA" />
+</p>
 
 ---
 
-## Sobre Mí
+## 👨‍💻 Sobre Mí
 
-Soy estudiante de Análisis y Desarrollo de Software y Técnico en Sistemas, con formación en Ingeniería enfocada en IA Generativa. Mi experiencia se centra en el desarrollo backend, lógica de programación y proyectos tecnológicos innovadores. Resido en Neiva, Colombia, y busco oportunidades para contribuir en equipos de desarrollo y hackathons.
+🎓 Estudiante de Análisis y Desarrollo de Software  
+💻 Técnico en Sistemas  
+🤖 Formación en Ingeniería con IA Generativa  
+🧠 Enfocado en desarrollo backend y lógica de programación  
+📍 Neiva, Colombia  
 
-### Objetivos Profesionales
+### 🎯 Objetivos Profesionales
 - Desarrollar habilidades avanzadas en IA generativa y robótica aplicada.
 - Contribuir a proyectos open-source y colaborativos.
-- Participar en iniciativas tecnológicas que impacten comunidades locales y globales.
+- Participar en iniciativas tecnológicas que impacten comunidades.
 
 ---
 
-## Educación
+## 🏆 Experiencia y Logros
 
-- **Análisis y Desarrollo de Software** (En curso) - SENA, Colombia
-- **Técnico en Sistemas** - Institución educativa relevante, Colombia
-- **Formación en Ingeniería con IA Generativa** - Cursos especializados en robótica recreativa y aplicaciones de IA
-
----
-
-## Experiencia y Logros
-
-- **Participante en Hackathons**:
-  - 1ra Hackathon SENA-CPE (2020)
-  - 2da Hackathon SENA-CPE (2020)
-- **V Encuentro de Semilleros de Investigación y Experiencias Significativas** (2020)
-- **Desarrollo de Proyectos Académicos**: Creación de sistemas y aplicaciones en diversos lenguajes, enfocados en resolución de problemas reales.
+- 🤖 Curso especial en Robótica Recreativa  
+- 🏆 Participante en la 1ra Hackathon SENA-CPE - 2020
+- 🏆 Participante en la 2da Hackathon SENA-CPE - 2020
+- 🏆 V Encuentro de semilleros de investigación y experiencias significativas - 2020
+- 🚀 Desarrollo de proyectos académicos y tecnológicos  
 
 ---
 
-## Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
-| Lenguajes | Frameworks | Bases de Datos | Herramientas |
-|-----------|------------|----------------|--------------|
-| Java      | React      | MySQL          | Git          |
-| Python    |            |                | GitHub       |
-| PHP       |            |                |              |
-| HTML/CSS  |            |                |              |
-| JavaScript|            |                |              |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,react,mysql,git,github" />
+</p>
 
 ---
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### AirSense CEFA
-**Descripción**: Sistema automatizado para monitoreo y análisis de calidad del aire en el Centro de Formación Agroindustrial La Angostura (CEFA). Utiliza sensores ambientales para medir niveles de CO₂ y otros parámetros, integrados con una plataforma en Python.
+### 🌿 AirSense CEFA
+💡 Sistema de monitoreo de calidad del aire
 
-**Tecnologías**:
-- Python
-- Sensores ambientales
-- Procesamiento de datos
+**Descripción**: Desarrollo de un sistema automatizado para monitorear y analizar los niveles de CO₂ y la calidad del aire en el Centro de Formación Agroindustrial La Angostura (CEFA), mediante sensores ambientales conectados a una plataforma en Python.
+
+**Tecnologías**: Python, Sensores ambientales, Procesamiento de datos  
 
 **Funcionalidades**:
-- Monitoreo en tiempo real de CO₂
-- Análisis de calidad del aire
-- Integración con sensores físicos
-- Visualización de datos
+- 📊 Monitoreo en tiempo real de CO₂  
+- 🌱 Análisis de calidad del aire  
+- 📡 Integración con sensores físicos  
+- 📈 Visualización de datos  
 
-**Objetivo**: Mejorar condiciones ambientales y apoyar decisiones basadas en datos.
+**Objetivo**: Mejorar las condiciones ambientales y apoyar la toma de decisiones mediante tecnología.
 
 *(Enlace al repositorio: [Si aplica, agregar enlace])*
 
-### Otros Proyectos
-- **Sistema de Ventas en Java**: Aplicación para gestión de ventas con interfaz gráfica.
-- **Aplicaciones en Python**: Scripts y herramientas para automatización y análisis.
-- **Proyecto Web con PHP y Base de Datos**: Sitio web dinámico con integración de MySQL.
-- **Aplicación en React**: Interfaz de usuario moderna (en desarrollo).
+### 💻 Otros Proyectos
+- 🔹 Sistema de ventas en Java  
+- 🔹 Aplicaciones en Python  
+- 🔹 Proyecto web con PHP y base de datos  
+- 🔹 Aplicación en React (en desarrollo)  
 
 ---
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ingdevelopers449&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ingdevelopers449&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## Actividad Reciente
-
-![Racha de Contribuciones](https://streak-stats.demolab.com?user=ingdevelopers449&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ingdevelopers449&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingdevelopers449&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## Contacto
+## 🔥 Actividad Reciente
 
-- **Ubicación**: Neiva, Colombia
-- **Teléfono**: 317 1444 624
-- **Correo Electrónico**: pipelozada994@gmail.com
-- **GitHub**: [ingdevelopers449](https://github.com/ingdevelopers449)
-- **LinkedIn**: [Agregar enlace si aplica]
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ingdevelopers449&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+## 📫 Contacto
+
+📍 Neiva, Colombia  
+📞 317 1444 624  
+✉️ pipelozada994@gmail.com  
+🔗 [GitHub](https://github.com/ingdevelopers449)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer"/>
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer)
