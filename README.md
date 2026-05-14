@@ -1,7 +1,11 @@
 <h1 align="center">👋 Hola, soy Luis Lozada</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Desarrollador+de+Software+en+formación;🚀+Backend+y+Tecnologías+Web;🤖+IA+Generativa+y+Robótica;🏆+Participante+en+Hackathons+SENA" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+Desarrollador+de+Software+en+formación;🚀+Backend+y+Tecnologías+Web;🤖+IA+Generativa+y+Robótica;🏆+Participante+en+Hackathons+SENA;🌟+Innovador+Tecnológico" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ingdevelopers449.ingdevelopers449" alt="Contador de Visitas" />
 </p>
 
 ---
@@ -31,6 +35,14 @@
 
 ---
 
+## 📜 Certificaciones y Cursos
+
+- ![Certificación](https://img.shields.io/badge/Certificación-Robótica%20Recreativa-blue) - Curso Especializado
+- ![Certificación](https://img.shields.io/badge/Certificación-IA%20Generativa-green) - Formación en Ingeniería
+- ![Certificación](https://img.shields.io/badge/Certificación-Hackathons%20SENA-orange) - Participación Activa
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
@@ -42,6 +54,7 @@
 ## 🚀 Proyectos Destacados
 
 ### 🌿 AirSense CEFA
+![Status](https://img.shields.io/badge/Status-En%20Desarrollo-blue)  
 💡 Sistema de monitoreo de calidad del aire
 
 **Descripción**: Desarrollo de un sistema automatizado para monitorear y analizar los niveles de CO₂ y la calidad del aire en el Centro de Formación Agroindustrial La Angostura (CEFA), mediante sensores ambientales conectados a una plataforma en Python.
@@ -56,13 +69,23 @@
 
 **Objetivo**: Mejorar las condiciones ambientales y apoyar la toma de decisiones mediante tecnología.
 
-*(Enlace al repositorio: [Si aplica, agregar enlace])*
+🔗 [Repositorio](https://github.com/ingdevelopers449/airsense-cefa) | [Demo](https://demo-link.com)
+
+![Screenshot](https://via.placeholder.com/600x300?text=AirSense+CEFA+Screenshot)  <!-- Reemplaza con imagen real -->
 
 ### 💻 Otros Proyectos
-- 🔹 Sistema de ventas en Java  
-- 🔹 Aplicaciones en Python  
-- 🔹 Proyecto web con PHP y base de datos  
-- 🔹 Aplicación en React (en desarrollo)  
+- 🔹 **Sistema de Ventas en Java** ![Status](https://img.shields.io/badge/Status-Completado-green) - [Repositorio](https://github.com/ingdevelopers449/sistema-ventas-java)
+- 🔹 **Aplicaciones en Python** ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-blue) - [Repositorio](https://github.com/ingdevelopers449/apps-python)
+- 🔹 **Proyecto Web con PHP y Base de Datos** ![Status](https://img.shields.io/badge/Status-Completado-green) - [Repositorio](https://github.com/ingdevelopers449/web-php)
+- 🔹 **Aplicación en React** ![Status](https://img.shields.io/badge/Status-En%20Desarrollo-blue) - [Repositorio](https://github.com/ingdevelopers449/react-app)
+
+---
+
+## 🤝 Colaboraciones y Contribuciones
+
+- Contribuciones activas en repositorios open-source relacionados con IA y backend.
+- Participación en comunidades de desarrolladores en GitHub y foros tecnológicos.
+- ![Contribuciones](https://img.shields.io/github/contributors/ingdevelopers449/repo-ejemplo)  <!-- Ejemplo, reemplaza con real -->
 
 ---
 
@@ -83,6 +106,17 @@
 
 ---
 
+## 🌐 Redes Sociales y Perfiles
+
+<p align="center">
+  <a href="https://github.com/ingdevelopers449"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/luis-lozada"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/ingdevelopers449"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:pipelozada994@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
 ## 📫 Contacto
 
 📍 Neiva, Colombia  
@@ -92,8 +126,10 @@
 
 ---
 
+## 🚀 ¡Conectemos!
+
+Estoy abierto a colaboraciones, oportunidades laborales y discusiones sobre tecnología. ¡No dudes en contactarme para proyectos innovadores!
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer"/>
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=100&section=footer)
