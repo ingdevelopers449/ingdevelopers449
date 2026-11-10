@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title description">
+  <title id="title">Hablemos de tu próximo proyecto</title>
+  <desc id="description">Contacto profesional con Luis Lozada, analista y desarrollador de software en Neiva, Colombia</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10283f"/>
+      <stop offset="1" stop-color="#173f5f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#41c7c7"/>
+      <stop offset="1" stop-color="#71ded3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" rx="14" fill="url(#background)"/>
+  <path d="M900 0h300v210H984c-46-53-69-119-84-210Z" fill="#ffffff" opacity=".025"/>
+  <g fill="none" stroke="#69d2d1" stroke-width="1.5" opacity=".3">
+    <path d="M912 47h74l28 28h104"/>
+    <path d="M893 163h98l34-34h133"/>
+    <path d="M1050 0v42l29 29v23"/>
+    <path d="M1144 116v34l-28 28v32"/>
+  </g>
+  <g fill="#71ded3" opacity=".8">
+    <circle cx="912" cy="47" r="4"/>
+    <circle cx="1118" cy="75" r="4"/>
+    <circle cx="893" cy="163" r="4"/>
+    <circle cx="1158" cy="129" r="4"/>
+    <circle cx="1079" cy="94" r="4"/>
+  </g>
+  <rect x="72" y="46" width="5" height="118" rx="2.5" fill="url(#accent)"/>
+  <text x="108" y="91" fill="#8fb5c8" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="3">CONTACTO PROFESIONAL</text>
+  <text x="108" y="133" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="600" letter-spacing=".2">Hablemos de tu próximo proyecto</text>
+  <text x="110" y="163" fill="#dbe8f0" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing=".4">Disponible para conectar, colaborar y crear soluciones tecnológicas.</text>
+</svg>

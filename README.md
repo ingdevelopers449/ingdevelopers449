@@ -6,11 +6,9 @@
   <br><br>
   Neiva, Colombia
   <br><br>
-  <a href="https://github.com/ingdevelopers449">GitHub</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/luis-lozada">LinkedIn</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="mailto:pipelozada994@gmail.com">Contacto profesional</a>
+  <a href="https://github.com/ingdevelopers449"><img src="https://img.shields.io/badge/GitHub-10283F?style=for-the-badge&logo=github&logoColor=white" alt="Visitar GitHub" /></a>
+  <a href="https://linkedin.com/in/luis-lozada"><img src="https://img.shields.io/badge/LinkedIn-146C94?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" /></a>
+  <a href="mailto:pipelozada994@gmail.com"><img src="https://img.shields.io/badge/Correo-41A6A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" /></a>
 </div>
 
 ---
@@ -48,9 +46,13 @@ Mi formación integra desarrollo de software, sistemas e inteligencia artificial
 ## Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,react,mysql,git,github&perline=10" alt="Java, Python, PHP, HTML, CSS, JavaScript, React, MySQL, Git y GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,laravel,django,nodejs,html,css,js,react,mysql,mongodb,git,github&perline=7" alt="Java, Python, PHP, Laravel, Django, Node.js, HTML, CSS, JavaScript, React, MySQL, MongoDB, Git y GitHub" />
   <br>
-  Java · Python · PHP · HTML · CSS · JavaScript · React · MySQL · Git
+  <strong>Lenguajes:</strong> Java · Python · PHP · JavaScript
+  <br>
+  <strong>Frameworks y runtime:</strong> Laravel · Django · Node.js · React
+  <br>
+  <strong>Bases de datos y herramientas:</strong> MySQL · MongoDB · Git · GitHub
 </div>
 
 ## Proyectos seleccionados
@@ -61,7 +63,7 @@ Mi formación integra desarrollo de software, sistemas e inteligencia artificial
       <strong>AirSense CEFA</strong>
       <p>Sistema para monitorear y analizar la calidad del aire en el Centro de Formación Agroindustrial La Angostura mediante sensores ambientales y una plataforma en Python.</p>
       <p><strong>Componentes:</strong> monitoreo de CO₂, integración de sensores y visualización de datos.</p>
-      <a href="https://github.com/ingdevelopers449/airsense-cefa">Consultar repositorio</a>
+      <a href="https://github.com/ingdevelopers449/airsense-cefa"><img src="https://img.shields.io/badge/VER%20REPOSITORIO-146C94?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositorio de AirSense CEFA" /></a>
     </td>
     <td width="50%" valign="top">
       <strong>Otros proyectos</strong>
@@ -78,12 +80,11 @@ Mi formación integra desarrollo de software, sistemas e inteligencia artificial
 ---
 
 <div align="center">
-  <strong>CONTACTO</strong>
+  <img src="./assets/profile-footer.svg" alt="Hablemos de tu próximo proyecto" width="100%" />
   <br><br>
-  Neiva, Colombia &nbsp;·&nbsp;
-  <a href="mailto:pipelozada994@gmail.com">pipelozada994@gmail.com</a>
+  <a href="mailto:pipelozada994@gmail.com"><img src="https://img.shields.io/badge/ESCRIBIR%20POR%20CORREO-41A6A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Escribir por correo" /></a>
+  <a href="https://linkedin.com/in/luis-lozada"><img src="https://img.shields.io/badge/CONECTAR%20EN%20LINKEDIN-146C94?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar en LinkedIn" /></a>
+  <a href="https://github.com/ingdevelopers449"><img src="https://img.shields.io/badge/VER%20PERFIL%20GITHUB-10283F?style=for-the-badge&logo=github&logoColor=white" alt="Ver perfil de GitHub" /></a>
   <br><br>
-  <a href="https://linkedin.com/in/luis-lozada">LinkedIn</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/ingdevelopers449">GitHub</a>
+  Neiva, Colombia
 </div>
