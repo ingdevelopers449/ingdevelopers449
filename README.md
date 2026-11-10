@@ -1,79 +1,70 @@
 <div align="center">
+  <img src="./assets/profile-banner.svg" alt="Luis Lozada | Analista y desarrollador de software" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:102A43,50:146C94,100:19A7CE&height=190&section=header&text=Luis%20Lozada&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=ANALISTA%20Y%20DESARROLLADOR%20DE%20SOFTWARE&descAlignY=70&descSize=17" alt="Luis Lozada — Analista y desarrollador de software" />
-
-<br>
-
-**Técnico en Sistemas · Desarrollo de software · Inteligencia artificial**
-
-Neiva, Colombia
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingdevelopers449)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-lozada)
-[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pipelozada994@gmail.com)
-
+  <br>
+  <strong>ANÁLISIS · DESARROLLO DE SOFTWARE · SISTEMAS</strong>
+  <br><br>
+  Neiva, Colombia
+  <br><br>
+  <a href="https://github.com/ingdevelopers449">GitHub</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/luis-lozada">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:pipelozada994@gmail.com">Contacto profesional</a>
 </div>
 
 ---
 
-## Perfil profesional
+## Perfil
 
-Analista y desarrollador de software, y Técnico en Sistemas formado en el **SENA**. Complemento mi perfil con formación en ingeniería de software con IA generativa, implementación de soluciones de inteligencia artificial, desarrollo web, mantenimiento de computadores y electrónica recreativa.
+Analista y desarrollador de software, y Técnico en Sistemas formado en el **Servicio Nacional de Aprendizaje (SENA)**. Completé el curso de **Ingeniería de Software con IA Generativa** en la **Fundación Escuela Tecnológica de Neiva “Jesús Oviedo Pérez” (FET)**.
 
-Me interesa diseñar y construir soluciones tecnológicas prácticas, con especial interés en el desarrollo backend, las tecnologías web y la inteligencia artificial.
+Mi formación integra desarrollo de software, sistemas e inteligencia artificial. Me interesa aportar a proyectos tecnológicos mediante soluciones prácticas, atención al detalle y aprendizaje continuo, con especial interés en el desarrollo backend y las tecnologías web.
 
 ## Formación
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Formación profesional</h3>
-      <p><strong>Análisis y Desarrollo de Software</strong><br>Servicio Nacional de Aprendizaje (SENA)</p>
-      <p><strong>Técnico en Sistemas</strong><br>Servicio Nacional de Aprendizaje (SENA)</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📘 Formación especializada</h3>
-      <p><strong>Ingeniería de Software con IA Generativa</strong><br><a href="https://www.fet.edu.co/">Fundación Escuela Tecnológica de Neiva “Jesús Oviedo Pérez” (FET)</a><br>Curso finalizado</p>
-    </td>
-  </tr>
-</table>
+| Programa | Institución |
+|---|---|
+| Análisis y Desarrollo de Software | Servicio Nacional de Aprendizaje (SENA) |
+| Técnico en Sistemas | Servicio Nacional de Aprendizaje (SENA) |
+| Ingeniería de Software con IA Generativa · Curso finalizado | [Fundación Escuela Tecnológica de Neiva “Jesús Oviedo Pérez” (FET)](https://www.fet.edu.co/) |
 
-## Cursos y actualización
+## Formación complementaria
 
-| Área | Formación |
+| Área | Curso o actividad formativa |
 |---|---|
 | Inteligencia artificial | Implementación de Soluciones de Inteligencia Artificial |
-| Herramientas ofimáticas | Informática: Microsoft Word, Excel e Internet |
-| Sistemas | Básico en Mantenimiento de Computadores |
+| Productividad | Informática: Microsoft Word, Excel e Internet |
+| Soporte técnico | Básico en Mantenimiento de Computadores |
 | Electrónica | Electrónica y Robótica Recreativa |
 
-## Participación
+## Participación académica
 
-- **Ponente**, VIII Encuentro de Experiencias Significativas de Semilleros de Investigación La Angostura (S.I.A.) — Campoalegre, Huila · 27 de mayo de 2026.
-- **Participante**, V Encuentro de Semilleros de Investigación y Experiencias Significativas.
-- **Participante**, Primera Hackathon SENA–CPE 2020.
-- **Participante**, Segunda Hackathon SENA–CPE 2020.
+- **Ponente** — VIII Encuentro de Experiencias Significativas de Semilleros de Investigación La Angostura (S.I.A.), Campoalegre, Huila · 27 de mayo de 2026.
+- **Participante** — V Encuentro de Semilleros de Investigación y Experiencias Significativas.
+- **Participante** — Primera Hackathon SENA–CPE 2020.
+- **Participante** — Segunda Hackathon SENA–CPE 2020.
 
 ## Tecnologías
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,html,css,js,react,mysql,git,github&perline=10" alt="Java, Python, PHP, HTML, CSS, JavaScript, React, MySQL, Git y GitHub" />
+  <br>
+  Java · Python · PHP · HTML · CSS · JavaScript · React · MySQL · Git
 </div>
 
-## Proyectos
+## Proyectos seleccionados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌿 AirSense CEFA</h3>
+      <strong>AirSense CEFA</strong>
       <p>Sistema para monitorear y analizar la calidad del aire en el Centro de Formación Agroindustrial La Angostura mediante sensores ambientales y una plataforma en Python.</p>
-      <p><strong>Enfoque:</strong> monitoreo de CO₂, integración de sensores y visualización de datos.</p>
-      <a href="https://github.com/ingdevelopers449/airsense-cefa">↗ Ver repositorio</a>
+      <p><strong>Componentes:</strong> monitoreo de CO₂, integración de sensores y visualización de datos.</p>
+      <a href="https://github.com/ingdevelopers449/airsense-cefa">Consultar repositorio</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Otros desarrollos</h3>
+      <strong>Otros proyectos</strong>
       <ul>
         <li><a href="https://github.com/ingdevelopers449/sistema-ventas-java">Sistema de Ventas en Java</a></li>
         <li><a href="https://github.com/ingdevelopers449/apps-python">Aplicaciones en Python</a></li>
@@ -84,19 +75,15 @@ Me interesa diseñar y construir soluciones tecnológicas prácticas, con especi
   </tr>
 </table>
 
-## Actividad en GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ingdevelopers449&show_icons=true&hide_border=true&title_color=146C94&icon_color=146C94&text_color=334155&bg_color=ffffff" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingdevelopers449&layout=compact&hide_border=true&title_color=146C94&text_color=334155&bg_color=ffffff" alt="Lenguajes más usados en GitHub" />
-</div>
-
 ---
 
 <div align="center">
-
-**¿Tienes una oportunidad o un proyecto en mente?**
-
-[Escríbeme](mailto:pipelozada994@gmail.com) · [Conecta en LinkedIn](https://linkedin.com/in/luis-lozada)
-
+  <strong>CONTACTO</strong>
+  <br><br>
+  Neiva, Colombia &nbsp;·&nbsp;
+  <a href="mailto:pipelozada994@gmail.com">pipelozada994@gmail.com</a>
+  <br><br>
+  <a href="https://linkedin.com/in/luis-lozada">LinkedIn</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/ingdevelopers449">GitHub</a>
 </div>
